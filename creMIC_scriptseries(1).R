@@ -1,5 +1,5 @@
 # ------ 02.10.2024
-# Ai Vinh Pham-Le, Dissertation 
+# Ai Vinh Pham-Le, Appendices - Dissertation 
 # English Linguistics Dept., Univerisity of Rostock (UR)
 # ------ series of scripts which are used for processing data
 # triadic files for analysis, takin areas which has no overlap (verwendbar)
